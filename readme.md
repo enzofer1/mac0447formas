@@ -3,6 +3,6 @@ Esta primeira parte do EP consistiu em obter um dataset de imagens de 5 classes 
 
 Link para o dataset: https://drive.google.com/drive/folders/1JKEvmQNurDBXYR9SMvDK9VubZ7_rG5xw?usp=sharing
 
-screenshot do app:
-![image](https://github.com/enzofer1/mac0447formas/assets/135568836/674b7ea9-d223-4e41-bd7d-eda2b11f2f29)
+![image](https://github.com/enzofer1/mac0447formas/assets/135568836/ce79fda8-1e16-4b76-8127-2c47041c4e8f)
+
 
